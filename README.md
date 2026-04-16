@@ -4,6 +4,11 @@
 
 🚀 **Live**: https://rajavardhan-187.github.io/fno-tax-calc/
 
+UI Images:
+<img width="1919" height="953" alt="image" src="https://github.com/user-attachments/assets/cfa872a8-3c87-4709-800e-d773e15fbf87" />
+<img width="1586" height="917" alt="image" src="https://github.com/user-attachments/assets/a3743257-b82f-4e70-bb5c-de8be23aa53f" />
+<img width="1605" height="794" alt="image" src="https://github.com/user-attachments/assets/cd79657a-c0a7-4b52-b7e8-475619969376" />
+
 ---
 
 ## Features
